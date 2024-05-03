@@ -1,4 +1,15 @@
 # US Household Income Analysis
+
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Findings](#findings)
+- [Visualizations](#visualizations)
+- [Limitations](#limitations)
+  
 ## Project Overview
 Through this project, I delved into a comprehensive dataset capturing household income metrics as well as the land and water areas across various states in the United States. Leveraging statistical techniques and data visualization tools, I explored the distribution, trends, and disparities in household income levels.
 ## Data Source
@@ -82,7 +93,7 @@ Michigan, Texas, Florida, and Minnesota emerge as the top states by water area, 
 
 Visualizations of household income distribution across states reveal notable disparities. States such as New Jersey, Alaska, California and New York exhibit higher median household incomes, reflective of their large urban centers and diverse economies. Conversely, states like Mississippi and West Virginia have lower median incomes, indicative of socioeconomic challenges in rural areas. The findings also indicate that the Municipality region boasts the highest income levels.
 
-## Visualization
+## Visualizations
 
 ![Sheet 2 (3)](https://github.com/AbiAjayi/US-Household-Income/assets/167730368/f44f9418-9767-419c-8d0b-d34073256cec)
 
