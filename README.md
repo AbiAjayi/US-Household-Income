@@ -99,9 +99,8 @@ Visualizations of household income distribution across states reveal notable dis
 
 ![Sheet 1](https://github.com/AbiAjayi/US-Household-Income/assets/167730368/0d90b77c-9728-40b1-bba0-3558f37995d0)
 
-![Sheet 4 (2)](https://github.com/AbiAjayi/US-Household-Income/assets/167730368/3b12323b-9df5-4912-8221-03976c02e3a4)
+![Chart 3](https://github.com/AbiAjayi/US-Household-Income/assets/167730368/acbbbb2c-40c9-493f-901e-ac08a4cf40d3)
 
-![Sheet 2 (2)](https://github.com/AbiAjayi/US-Household-Income/assets/167730368/6f9f4000-e00f-4d48-b082-b2a025948806)
 
 ![Sheet 5](https://github.com/AbiAjayi/US-Household-Income/assets/167730368/59e40276-e71a-4e37-817c-0b9423f43cac)
 
